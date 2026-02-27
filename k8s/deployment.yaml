@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: devops-demo-app
-        image: arunkumar1611/devops-demo-app:2
+        image: arunkumar1611/devops-demo-app:3
         ports:
         - containerPort: 8080
